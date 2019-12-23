@@ -1,6 +1,6 @@
 ---
 - name: Install nginx
-  hosts: 52.149.187.112
+  hosts: localhost
   become: true
 
   tasks:
